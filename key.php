@@ -20,7 +20,7 @@
         "downLoadUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.zip",
         "expressSkin": "",
         "isGif": true,
-        "name": "dance_man_01",
+        "name": "ayman1",
         "previewUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.gif",
         "title":"اميراتي",
         "vercode": 501
