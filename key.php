@@ -17,11 +17,11 @@
 {
         "_id": 14,
         "_ver": 2,
-        "downLoadUrl": "http://asia.badambiz.com/image_dance_man_01.1658915169860.zip",
+        "downLoadUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.zip",
         "expressSkin": "",
         "isGif": true,
         "name": "dance_man_01",
-        "previewUrl": "http://asia.badambiz.com/image_dance_man.1658915174763.gif",
+        "previewUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.gif",
         "title":"اميراتي",
         "vercode": 501
       },
