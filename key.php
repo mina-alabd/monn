@@ -16,7 +16,7 @@
 
 {
         "_id": 14,
-        "_ver": 2,
+        "_ver": 1,
         "downLoadUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.zip",
         "expressSkin": "",
         "isGif": true,
