@@ -22,7 +22,7 @@
         "isGif": true,
         "name": "dance_man_01",
         "previewUrl": "http://asia.badambiz.com/image_dance_man.1658915174763.gif",
-        "title": "صور متحركة",
+        "title":"اميراتي",
         "vercode": 501
       },
 
