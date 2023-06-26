@@ -143,7 +143,7 @@
       {
         "_id": 13,
         "_ver": 1,
-        "downLoadUrl": "http://asia.badambiz.com/image_line.1662016007074.zip",
+        "downLoadUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.zip",
         "expressSkin": "",
         "isGif": true,
         "name": "line",
