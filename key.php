@@ -23,7 +23,7 @@
         "name": "ayman1",
         "previewUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.gif",
         "title":"اميراتي",
-        "vercode": 501
+        "vercode": 1
       },
 
 
