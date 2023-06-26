@@ -160,7 +160,7 @@
         "isGif": true,
         "name": "ayman1",
         "previewUrl": "https://github.com/mina-alabd/monn/raw/master/ayman1.gif",
-        "title":"اميراتي",
+        "title":"amira12",
         "vercode": 1
       }
 
